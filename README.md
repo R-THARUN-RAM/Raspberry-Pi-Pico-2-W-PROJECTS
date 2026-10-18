@@ -5,6 +5,9 @@ My learning journey building projects especially EDGE AI projects using the Rasp
 # 1. Edge AI Thermal Anomaly Detector
   **Real-Time TinyML Anomaly Detection on the Raspberry Pi Pico 2 W**
 
+**Hardware used**: Raspberry Pi Pico 2 W
+**Language**: MicroPython
+
 An ultra-lightweight, self-contained Edge AI system designed to detect real-time hardware thermal anomalies at the silicon layer. Operating completely offline without cloud dependencies or external sensors, this project showcases resource-constrained intelligence running locally on the dual ARM Cortex-M33 / RISC-V **RP2350 microcontroller**.
 
 1) **True "Edge" Autonomy (No Cloud, No External Wiring):** Processing occurs 100% on-device. There is zero network latency, no reliance on external servers, and total data privacy.
